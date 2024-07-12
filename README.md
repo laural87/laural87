@@ -1,6 +1,7 @@
 # ¡Hola! Soy Laura 👋
 
 ¡Bienvenidos a mi rincón de datos! Soy una entusiasta estudiante de bootcamp en el maravilloso mundo del análisis de datos. Estoy aquí para contar sobre mis habilidades y experiencias con las tecnologías que hacen que los datos bailen al ritmo del Python y mucho más.
+Además de abrirme paso en el mercado laboral en este fascinante mundo del análisis de datos.
 
 ## Mis Superpoderes 💪
 
