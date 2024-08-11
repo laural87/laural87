@@ -20,6 +20,6 @@ Además de abrirme paso en el mercado laboral en este fascinante mundo del anál
 - GitHub: [laural87](https://github.com/laural87)
 - Correo electrónico: laura.lpzvgs@gmail.com
 
-¡No duden en contactarme si quieren charlar sobre datos, café ☕️ o incluso sobre cómo enseñarle estadísticas a tu gato 🐱!
+¡No dudes en contactarme si quieres charlar sobre datos, café ☕️ o incluso sobre cómo enseñarle estadísticas a tu gato 🐱!
 
 ¡Nos vemos en el mundo del análisis de datos! 🚀
